@@ -1,0 +1,1 @@
+console.log(module); //functions and variables are scoped to a module or file (otherwise known as private in OOP). You must explicitly export modules to use them externally.
